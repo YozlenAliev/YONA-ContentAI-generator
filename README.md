@@ -26,4 +26,4 @@
 ## 🚀 Стартиране локално
 1. Клонирайте хранилището:
    ```bash
-   git clone [линк-към-вашия-проект]
+   git clone https://github.com/YozlenAliev/YONA-ContentAI-generator
